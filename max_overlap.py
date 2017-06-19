@@ -1,3 +1,4 @@
+# This code is used to label the inst_box of the entire image sequence
 import pdb
 import numpy as np
 import operator
